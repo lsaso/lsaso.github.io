@@ -52,7 +52,7 @@ The program requires to scripts to run:
 - [agentframework.py](https://lsaso.github.io/agentframework.py), which is the definition of the Agent class and subclasses Grazer and Predator.
 
 Additionally, it requires two files:
-- [in.txt](https://slsaso.github.io/in.txt), which contains the environment information.
+- [in.txt](https://lsaso.github.io/in.txt), which contains the environment information.
 - [environmentout.csv](https://lsaso.github.io/environmentout.csv), which is the file used to write the environment data out of the model when requested by the user.
 
 Please download the files into the same local directory to run.
